@@ -1,4 +1,4 @@
-# Projeto-393
+# Classificador de Imagens K-NN
 
 ## Como executar o programa
 
