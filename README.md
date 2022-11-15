@@ -12,3 +12,7 @@ https://drive.google.com/drive/folders/1Sg2R6x7q88zVMD9y5_7ufIsEqKCqlvXf?usp=sha
 **Passo 3:** No repositório do Github, clique no arquivo *Projeto01.ipynb* e em seguida no botão "*Open in Colab*"
 
 <img src= "https://github.com/MathBSilva/Projeto-393/blob/adf9fe46cdf61a5a089d53e64d630b2136b3c55c/instru%C3%A7%C3%B5es/passo3.jpg">
+
+**Passo 4:** No Google Colab, para executar todo o código vá em "Ambiente de execução" e clique em "*Executar tudo*" 
+
+**Opcional:** Se quiser executar uma parte de cada vez, selecione cada célula, em ordem, e clique no botão "*Executar célula*" no canto superior esquerdo
