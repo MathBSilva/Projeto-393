@@ -7,7 +7,7 @@ https://ava.ufv.br/mod/resource/view.php?id=232104
 
 **Passo 2:** No repositório do Github, clique no arquivo *Projeto01.ipynb* e em seguida no botão "*Open in Colab*"
 ##
-<img src= "https://github.com/MathBSilva/Projeto-393/blob/adf9fe46cdf61a5a089d53e64d630b2136b3c55c/instru%C3%A7%C3%B5es/passo3.jpg">
+<img src= "https://github.com/MathBSilva/Projeto-393/blob/a09b8eae4ad55b03668351d59a639eaea9f15d54/instru%C3%A7%C3%B5es/passo2.jpg">
 
 **Passo 3:**
 
