@@ -9,11 +9,13 @@ https://ava.ufv.br/mod/resource/view.php?id=232104
 ##
 <img src= "https://github.com/MathBSilva/Projeto-393/blob/a09b8eae4ad55b03668351d59a639eaea9f15d54/instru%C3%A7%C3%B5es/passo2.jpg">
 
-**Passo 3:** No Google Colab, clique
+**Passo 3:** No Google Colab, clique no ícone "*Arquivos*", em seguida no ícone destacado de azul para fazer o upload do arquivo .zip baixado anteriormente. Para extrair o conteúdo do arquivo .zip, execute a primeira célula clicando no ícone "*Executar célula*".
+
+**Nota:** Para visualizar os arquivos criados, clique no ícone "*Atualizar*"
 ##
 <img src= "https://github.com/MathBSilva/Projeto-393/blob/098efb95d5fa3e17a8e2c10b4d8f9f709fcf37ae/instru%C3%A7%C3%B5es/passo3.png">
 
-**Passo 4:** No Google Colab, para executar todo o código vá em "Ambiente de execução" e clique em "*Executar tudo*"
+**Passo 4:** Para executar todo o código vá em "Ambiente de execução" e clique em "*Executar tudo*"
 ##
 <img src= "https://github.com/MathBSilva/Projeto-393/blob/4b38d0a4b706ac8d33f9ab5e69ae0ebff2bac7a8/instru%C3%A7%C3%B5es/passo4.jpg">
 
