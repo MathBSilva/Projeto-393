@@ -1,6 +1,9 @@
 # Classificador de Imagens K-NN
 
-## Como executar o programa
+### Nome : Matheus Borges Silva &emsp;&emsp;&emsp; 4850
+<br/>
+
+## Como executar o programa no Google Colab
 
 **Passo 1:** Baixe o *dataset* através do link.
 https://ava.ufv.br/mod/resource/view.php?id=232104
